@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,  
+    "title": "Apple",  
+    "imgUrl": "https://clipart-library.com/image_gallery2/Apple-Fruit-PNG-Image.png", 
+    "quantity": 10  
+  },
+  {
+    "id": 2,  
+    "title": "Kiwi",  
+    "imgUrl": "https://clipart-library.com/img/2004432.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 3,  
+    "title": "Banana",  
+    "imgUrl": "https://clipart-library.com/new_gallery/46-465696_fruit-png-images-.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 4,  
+    "title": "Blackberry",  
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTupA7lgxQ-IVdRlYxLbDzKIIj77GfoWnIg&usqp=CAU",  
+    "quantity": 5  
+  },
+  {
+    "id": 5,  
+    "title": "Pineapple",  
+    "imgUrl": "https://clipart-library.com/images/Xdc484dTe.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 6,  
+    "title": "Pear",  
+    "imgUrl": "https://clipart-library.com/new_gallery/46-463263_pear-fruits-png-pic-of-fruits.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 7,  
+    "title": "Orange",  
+    "imgUrl": "https://clipart-library.com/new_gallery/71-714754_orange-fruit-transparent-background.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 8,  
+    "title": "Dragon Fruit",  
+    "imgUrl": "https://clipart-library.com/new_gallery/154-1542651_dragon-fruit-pictures-dragon-fruits-transparent.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 9,  
+    "title": "Strawberry",  
+    "imgUrl": "https://5.imimg.com/data5/FY/QK/MY-40752636/fresh-strawberry.jpg",  
+    "quantity": 5  
+  },
+  {
+    "id": 10,  
+    "title": "Mango",  
+    "imgUrl": "https://pngfre.com/wp-content/uploads/mango-poster.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 11,  
+    "title": "Blueberry",  
+    "imgUrl": "https://w7.pngwing.com/pngs/395/812/png-transparent-blueberry-blueberry-fruit-food.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 12,  
+    "title": "Avocado",  
+    "imgUrl": "https://static.vecteezy.com/system/resources/previews/030/808/515/original/avocado-fruit-no-background-png.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 13,  
+    "title": "Grapes",  
+    "imgUrl": "https://img.freepik.com/premium-psd/bunch-fresh-purple-grapes-isolated-transparent-background_812337-4830.jpg",  
+    "quantity": 5  
+  },
+  {
+    "id": 14,  
+    "title": "Cherry",  
+    "imgUrl": "https://www.pngfind.com/pngs/m/50-505426_cherry-transparent-png-image-cherry-png-download.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 15,  
+    "title": "Papaya",  
+    "imgUrl": "https://www.pngimages.in/uploads/png-webp/2023/March-2023/papaya_Images_Png_Hd_New.webp",  
+    "quantity": 5  
+  },
+  {
+    "id": 16,  
+    "title": "Watermelon",  
+    "imgUrl": "https://w7.pngwing.com/pngs/3/669/png-transparent-watermelon-seed-fruit-vegetable-watermelon-watermelon-food-sweetness-melon-thumbnail.png",  
+    "quantity": 5  
+  },
+  {
+    "id": 17,  
+    "title": "Peach",  
+    "imgUrl": "https://image.similarpng.com/very-thumbnail/2022/02/Ripe-fresh-peach-fruit-isolated-on-transparent-background-PNG.png",  
+    "quantity": 5  
+  },
+]
